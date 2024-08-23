@@ -6,9 +6,7 @@ We question the current evaluation practice on diffusion-based purification meth
 
 ## Requirements
 
-```
-$ pip install -r requirements.txt
-```
+
 
 
 
